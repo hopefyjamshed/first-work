@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.first {
+    display: flex;
+}
+
+p {}
+
+.div-first {
+    margin-left: 30px;
+}
+
+.div-first img {
+    width: 130%;
+    margin-right: 40px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#span-one {
+    color: tomato;
+}
+
+#span-two {
+    color: rgb(88, 86, 86);
+}
+
+#one {
+    margin-left: 40px;
+}
+
+.link {
+    background-image: linear-gradient(rgb(128, 128, 209), rgb(58, 58, 212));
+    text-decoration: none;
+    color: white;
+    padding: 15px 40px;
+    border-radius: 30px;
+}
