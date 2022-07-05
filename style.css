@@ -40,3 +40,7 @@ h1 {
     padding: 15px 40px;
     border-radius: 30px;
 }
+
+p {
+    color: gray;
+}
