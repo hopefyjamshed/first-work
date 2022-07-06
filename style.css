@@ -102,7 +102,7 @@ p {
 }
 
 .food-div {
-    box-shadow: 10px 10px 5px rgb(182, 181, 181);
+    box-shadow: 5px 5px 5px rgb(182, 181, 181);
     width: 500px;
     margin-right: 50px;
     text-align: center;
@@ -122,16 +122,17 @@ p {
 }
 
 .social {
-    margin-left: 200px;
+    margin-left: 150px;
+    margin-right: ;
 }
 
 .shadow {
     display: flex;
-    box-shadow: 10px 10px 5px rgb(180, 178, 178);
+    box-shadow: 5px 5px 5px rgb(180, 178, 178);
     border-radius: 20px;
     margin-top: 50px;
     margin-right: 55px;
-    margin-left: 55px;
+    margin-left: 90px;
 }
 
 h2 {
