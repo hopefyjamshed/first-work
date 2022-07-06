@@ -1,21 +1,42 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0%;
 }
 
 .first {
     display: flex;
+    margin-bottom: 100px;
 }
 
 p {}
 
 .div-first {
-    margin-left: 30px;
+    margin-right: 49px;
 }
 
 .div-first img {
     width: 130%;
     margin-right: 40px;
 }
+
+.image {
+    width: 100%;
+    margin-left: 180px;
+    margin-top: 100px;
+}
+
+.about-me {
+    padding-right: 50px;
+    margin-left: 350px;
+    margin-top: 100px;
+
+}
+
+.three {
+    font-size: 30px;
+    font-weight: 2vw;
+}
+
 
 h1 {
     font-size: 50px;
@@ -25,7 +46,7 @@ h1 {
     color: tomato;
 }
 
-#span-two {
+.span-two {
     color: rgb(88, 86, 86);
 }
 
@@ -37,10 +58,24 @@ h1 {
     background-image: linear-gradient(rgb(128, 128, 209), rgb(58, 58, 212));
     text-decoration: none;
     color: white;
-    padding: 15px 40px;
+    padding: 15px 35px;
     border-radius: 30px;
 }
 
 p {
     color: gray;
+}
+
+.section {
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-size: 1240px;
+}
+
+.ink {
+    background-image: linear-gradient(to right, rgb(255, 166, 0), rgb(236, 84, 84));
+    text-decoration: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 30px;
 }
