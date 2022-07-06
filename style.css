@@ -5,6 +5,9 @@ body {
 
 .first {
     display: flex;
+}
+
+.bottom {
     margin-bottom: 100px;
 }
 
@@ -78,4 +81,88 @@ p {
     color: white;
     padding: 15px 32px;
     border-radius: 30px;
+}
+
+.recipies {
+    text-align: center;
+    margin-left: 290px;
+    margin-right: 290px;
+}
+
+.food-one {
+    height: 65%;
+    width: 95%;
+    padding-top: 10px;
+}
+
+
+.food {
+    display: flex;
+    align-items: center;
+}
+
+.food-div {
+    box-shadow: 10px 10px 5px rgb(182, 181, 181);
+    width: 500px;
+    margin-right: 50px;
+    text-align: center;
+    border-radius: 30px;
+}
+
+.one {
+    margin-left: 100px;
+}
+
+.text {
+    text-align: left;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+
+}
+
+.social {
+    margin-left: 200px;
+}
+
+.shadow {
+    display: flex;
+    box-shadow: 10px 10px 5px rgb(180, 178, 178);
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-right: 55px;
+    margin-left: 55px;
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.eat {
+    background-color: black;
+}
+
+.tomato {
+    color: tomato;
+}
+
+.gray {
+    color: gray;
+}
+
+.eat {
+    text-align: center;
+    margin-top: 50px;
+    padding-bottom: 70px;
+}
+
+.last {
+    margin-top: 20px;
+    margin-bottom: 50px;
+    padding-top: 30px;
+}
+
+h3 {
+    font-size: 25px;
 }
